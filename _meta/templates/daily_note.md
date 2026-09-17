@@ -1,17 +1,18 @@
+---
+id: daily_note
+aliases: []
+tags: []
+---
+
 
 ## Calendar
 
-<%* tR += await tp.user.gcal_agenda(tp, {
-  timezone: "America/Los_Angeles",
-}) %>
+{{calendar}}
 
 
 ## Tasks
 
-```tw
-list
-+next
-```
+{{tasks}}
 
 ## Prepare
 
