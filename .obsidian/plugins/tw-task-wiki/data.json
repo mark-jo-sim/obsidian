@@ -1,0 +1,14 @@
+{
+  "tw_bin": "/opt/homebrew/bin/task",
+  "debug_log": true,
+  "cache_columns": true,
+  "delete_key": "Alt",
+  "right_click_context_menu_enabled": false,
+  "right_click_context_menu_actions": [],
+  "project_urls_enabled": false,
+  "project_regex_url_entries": [],
+  "tasknote_enabled": true,
+  "tasknote_folder": "tasknotes",
+  "tasknote_right_click_context_menu_action": false,
+  "tasknote_annotation_prefix": "[tasknote]"
+}

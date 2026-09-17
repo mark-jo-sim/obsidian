@@ -1,0 +1,5 @@
+---
+type: product
+tags:
+  - insights
+---

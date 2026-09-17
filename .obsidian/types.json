@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "people": "multitext",
+    "author": "multitext",
+    "year": "number",
+    "date": "datetime",
+    "subprojects": "multitext",
+    "linear_tickets": "multitext",
+    "coda_docs": "multitext",
+    "project": "multitext"
+  }
+}
